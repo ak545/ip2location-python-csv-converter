@@ -1,3 +1,4 @@
+# Fix any errors
 import os, sys, re, csv, socket, struct, ipaddress, binascii
 from io import open
 
